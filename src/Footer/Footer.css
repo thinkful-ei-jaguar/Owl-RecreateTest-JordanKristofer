@@ -1,0 +1,17 @@
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  width: 100%;
+  margin: auto;
+}
+
+.Footer > button {
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.left,
+.right{
+  padding: 20px;
+}

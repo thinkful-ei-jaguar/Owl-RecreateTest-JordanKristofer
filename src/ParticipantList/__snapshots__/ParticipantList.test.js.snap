@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> renders this UI as expected 1`] = `
+<div
+  className="Participant-list"
+>
+  <div
+    className="Participant"
+  >
+    <img
+      alt=""
+      className="Person-image"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="Person-name"
+    >
+      Koren Templeton
+    </p>
+    <div
+      className="Person-status"
+    />
+    <div
+      className="Person-stage"
+    >
+      on stage
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt=""
+      className="Person-image"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="Person-name"
+    >
+      Caty Flucker
+    </p>
+    <div
+      className="Person-status"
+    />
+    <div
+      className="Person-stage"
+    >
+      
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt=""
+      className="Person-image"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="Person-name"
+    >
+      Axe Kubicka
+    </p>
+    <div
+      className="Person-status"
+    />
+    <div
+      className="Person-stage"
+    >
+      
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt=""
+      className="Person-image"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="Person-name"
+    >
+      Frank Runciman
+    </p>
+    <div
+      className="Person-status"
+    />
+    <div
+      className="Person-stage"
+    >
+      
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt=""
+      className="Person-image"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="Person-name"
+    >
+      Ashla Attwool
+    </p>
+    <div
+      className="Person-status"
+    />
+    <div
+      className="Person-stage"
+    >
+      on stage
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ParticipantList /> renders this UI as expected 1`] = `
+<div
+  className="Participant-list"
+>
+  <div
+    className="Participant"
+  >
+    <img
+      alt="Koren Templeton"
+      className="Person-image"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="Person-info"
+    >
+      <p
+        className="Person-name"
+      >
+        Koren Templeton
+      </p>
+      <div
+        className="Person-activity"
+      >
+        <div
+          className="Person-status"
+        >
+          active
+        </div>
+        <div
+          className="Person-stage"
+        >
+          on stage
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt="Caty Flucker"
+      className="Person-image"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="Person-info"
+    >
+      <p
+        className="Person-name"
+      >
+        Caty Flucker
+      </p>
+      <div
+        className="Person-activity"
+      >
+        <div
+          className="Person-status"
+        >
+          active
+        </div>
+        <div
+          className="Person-stage"
+        >
+          in session
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt="Axe Kubicka"
+      className="Person-image"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="Person-info"
+    >
+      <p
+        className="Person-name"
+      >
+        Axe Kubicka
+      </p>
+      <div
+        className="Person-activity"
+      >
+        <div
+          className="Person-status"
+        >
+          left session
+        </div>
+        <div
+          className="Person-stage"
+        >
+          in session
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt="Frank Runciman"
+      className="Person-image"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="Person-info"
+    >
+      <p
+        className="Person-name"
+      >
+        Frank Runciman
+      </p>
+      <div
+        className="Person-activity"
+      >
+        <div
+          className="Person-status"
+        >
+          active
+        </div>
+        <div
+          className="Person-stage"
+        >
+          in session
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Participant"
+  >
+    <img
+      alt="Ashla Attwool"
+      className="Person-image"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="Person-info"
+    >
+      <p
+        className="Person-name"
+      >
+        Ashla Attwool
+      </p>
+      <div
+        className="Person-activity"
+      >
+        <div
+          className="Person-status"
+        >
+          active
+        </div>
+        <div
+          className="Person-stage"
+        >
+          on stage
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

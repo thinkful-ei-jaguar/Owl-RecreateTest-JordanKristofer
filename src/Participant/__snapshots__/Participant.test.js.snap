@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders this UI as expected 1`] = `
+<div
+  className="Participant"
+>
+  <img
+    alt=""
+    className="Person-image"
+  />
+  <p
+    className="Person-name"
+  />
+  <div
+    className="Person-status"
+  />
+  <div
+    className="Person-stage"
+  >
+    
+  </div>
+</div>
+`;
+
+exports[`<Participant /> renders this UI as expected 1`] = `
+<div
+  className="Participant"
+>
+  <img
+    className="Person-image"
+  />
+  <div
+    className="Person-info"
+  >
+    <p
+      className="Person-name"
+    />
+    <div
+      className="Person-activity"
+    >
+      <div
+        className="Person-status"
+      >
+        left session
+      </div>
+      <div
+        className="Person-stage"
+      >
+        in session
+      </div>
+    </div>
+  </div>
+</div>
+`;

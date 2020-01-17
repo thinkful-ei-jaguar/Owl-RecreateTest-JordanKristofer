@@ -1,0 +1,34 @@
+.Participant {
+  border-bottom: 1px solid grey;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.Person-image {
+  border-radius: 50%;
+  width: 15%;
+  height: 15%;
+  margin-right: 10%;
+  align-self: center;
+}
+
+.Person-info{
+  display: flex;
+  flex-direction: column;
+}
+
+.Person-name {
+  margin: 0 0;
+  font-weight: bold;
+}
+
+.Person-activity{
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+}
+
+.Person-status{
+  margin-right: 5px;
+}
